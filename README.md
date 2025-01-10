@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=amkhasawneh&theme=algolia&show_icons=true)](https://github.com/amkhasawneh)
