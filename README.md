@@ -9,4 +9,4 @@ I keep my code here, mostly scRNA-seq analysis R code, but anything else I try o
 - My interest in programming and languages led me to develop an interest in software documentation too, so I'm reading on that.
 
 
-[![My languages](https://github-readme-stats.vercel.app/api/top-langs?username=amkhasawneh&theme=dracula&show_icons=true)](https://github.com/amkhasawneh) | [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=amkhasawneh&theme=algolia&show_icons=true)](https://github.com/amkhasawneh)	
+[![My languages](https://github-readme-stats.vercel.app/api/top-langs?username=amkhasawneh&theme=dracula&show_icons=true)](https://github.com/amkhasawneh)  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=amkhasawneh&theme=algolia&show_icons=true)](https://github.com/amkhasawneh)	
