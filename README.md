@@ -1,4 +1,4 @@
-## Welcome
+## Analyses and Tinkerings
 
 I keep my code here, mostly scRNA-seq analysis R code, but anything else I try out (some *secret* stuff too!).
 
