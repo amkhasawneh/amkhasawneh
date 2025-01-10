@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=amkhasawneh&theme=algolia&show_icons=true)](https://github.com/amkhasawneh)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=amkhasawneh&theme=dracula&show_icons=true)](https://github.com/amkhasawneh)
